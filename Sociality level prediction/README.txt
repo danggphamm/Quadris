@@ -1,0 +1,1 @@
+This projetc is called “Sociality level prediction”. The project’s goal is applying machine learning to predict a person’s level of comfortableness around people (Rank from 1 to 5) based on his/her answers to some certain questions. It is a multiclass classification problem.
