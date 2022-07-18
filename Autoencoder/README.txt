@@ -1,0 +1,2 @@
+In this project, I trained an auto encoder using the MNIST fashion dataset.
+After that, I extracted the encoder part, then freeze the weights, and then used it as the transfer learning backbone for a classification task.
